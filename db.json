@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy 17",
+      "brand": "Samsung",
+      "category": "Phones",
+      "price": "800",
+      "description": "Smartphone",
+      "createdAt": "2023-03-07",
+      "id": 1
+    },
+    {
+      "name": " X300",
+      "brand": "Nokia",
+      "category": "Phones",
+      "price": "300",
+      "description": "Blue color",
+      "createdAt": "2023-03-07",
+      "id": 2
+    },
+    {
+      "name": "Dell Laptop",
+      "brand": "Dell",
+      "category": "Computers",
+      "price": "100",
+      "description": "Professional Computer",
+      "createdAt": "2023-07-07",
+      "id": 3
+    },
+    {
+      "name": "Soap",
+      "brand": "Lux",
+      "category": "Other",
+      "price": "2",
+      "description": "body wash",
+      "createdAt": "2023-07-07",
+      "id": 5
+    },
+    {
+      "name": "milk",
+      "brand": "Amul",
+      "category": "Other",
+      "price": "10",
+      "description": "Dairy milk",
+      "createdAt": "2023-07-07",
+      "id": 6
+    }
+  ]
+}
